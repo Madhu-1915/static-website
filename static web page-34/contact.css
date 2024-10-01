@@ -1,0 +1,29 @@
+.vamsi-container{
+    width: 400px;
+    margin: 100px;
+    padding: 20px;
+    background-color:aqua;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+    button{
+        width: 100%;
+        padding: 10px;
+        background-color:blue;
+        color:aquamarine;
+        border-radius: 4px;
+        color: black
+        margin left
+    }
+
+    input,textarea{
+        width: 95%;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 4px;
+    }
+
